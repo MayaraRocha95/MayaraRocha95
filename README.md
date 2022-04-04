@@ -1,6 +1,6 @@
 ###  Olá, eu sou a Mayara Rocha
 
-- 🌱 Estudando HTML5, CSS3, JavaScript
+- 🌱 Estudando Front-End 
 - 📫 Contate-me no email: mayaraaraujorocha@hotmail.com
 <!--
 **MayaraRocha95/MayaraRocha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

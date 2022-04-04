@@ -2,9 +2,9 @@
 
 <!--
 **MayaraRocha95/MayaraRocha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayararocha95&layout=compact&hide=html" alt="limaluizpaulo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayararocha95&layout=compact&hide=html" alt="mayararocha95" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayararocha95&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayararocha95&show_icons=true&hide=issues,contribs" alt="mayararocha95" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

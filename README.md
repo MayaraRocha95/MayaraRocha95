@@ -1,11 +1,20 @@
-###  Olá, eu sou a Mayara Rocha
+###  Olá, eu sou a Mayara  Araujo Rocha
 
-- 🌱 Estudando Front-End 
+- 🌱 Estudando Front-End   ![j-c-hart-pixel-cat-003](https://user-images.githubusercontent.com/98711190/163698720-4c378ee9-f6ef-40f3-9012-a86b0491ad2c.gif)                                                                                
 - 📫 Contate-me no email: mayaraaraujorocha@hotmail.com
-- ⚡ Estudante na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}")
+- ⚡ Estudante na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
+
+
+
+
+
+
 <!--
 **MayaraRocha95/MayaraRocha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,7 +36,12 @@
   <img align="center" alt="sildev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="sildev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sildev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-</div>
+
+  </div>
+
+
+
+  
   
 ## 
  

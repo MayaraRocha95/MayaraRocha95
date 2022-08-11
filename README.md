@@ -39,6 +39,7 @@
   <a href="https://git-scm.com/"><img align="center" alt="Logo-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
   <a href="https://www.figma.com/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
   <a href="https://p5js.org/"><img align="center" alt="Logo-Figma" height="30" width="40" src=https://p5js.org/assets/img/p5js.svg></a>
+    <a href="https://sass-lang.com/"><img align="center" alt="Logo-Figma" height="30" width="40" src=https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg></a>
   </div>
 
 

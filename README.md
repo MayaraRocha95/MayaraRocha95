@@ -1,8 +1,8 @@
 ###  Olá, eu sou a Mayara  Araujo Rocha
 
-- :books: Estudando Front-End   ![j-c-hart-pixel-cat-003](https://user-images.githubusercontent.com/98711190/163698720-4c378ee9-f6ef-40f3-9012-a86b0491ad2c.gif)                                                                                
+- :books:  Front-End   ![j-c-hart-pixel-cat-003](https://user-images.githubusercontent.com/98711190/163698720-4c378ee9-f6ef-40f3-9012-a86b0491ad2c.gif)                                                                                
 - 📫 Contate-me no email: mayaraaraujorocha@hotmail.com
-- :mortar_board: Estudante na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
+- :mortar_board: Formada e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
 
 
 

@@ -33,7 +33,7 @@
     <div style="display: inline_block"><br>
   <img align="center" alt="sildev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       
-   <a href="https://www.java.com/pt-BR/"><img align="center" alt="Logo-Figma" height="30" width="30" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.geekhunter.com.br%2Fcursos-de-java%2F&psig=AOvVaw2BkcVIMe8IOWg7SKIY2lG_&ust=1678025427291000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjEg_65wv0CFQAAAAAdAAAAABAJ></a>
+   
 
   <img align="center" alt="sildev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   

@@ -25,6 +25,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
 <div>
   
   <a href="https://github.com/MayaraRocha95">

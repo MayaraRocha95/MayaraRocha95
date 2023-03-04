@@ -26,10 +26,11 @@
 - ⚡ Fun fact: ...
 -->
 <div>
+  
   <a href="https://github.com/MayaraRocha95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraRocha95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraRocha95&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center" alt="sildev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="sildev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
        <a href="https://www.java.com/pt-BR/"><img align="center" alt="Logo-Figma" height="30" width="30" src=https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1></a>
    
 

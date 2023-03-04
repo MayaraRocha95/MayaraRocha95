@@ -27,14 +27,13 @@
 -->
 <div>
   <a href="https://github.com/MayaraRocha95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraRocha95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraRocha95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraRocha95&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     <div style="display: inline_block"><br>
   <img align="center" alt="sildev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       
-   <a href="https://www.java.com/pt-BR/"><img align="center" alt="Logo-Figma" height="30" width="30" src=https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1></a>
+   <a href="https://www.java.com/pt-BR/"><img align="center" alt="Logo-Figma" height="30" width="30" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.geekhunter.com.br%2Fcursos-de-java%2F&psig=AOvVaw2BkcVIMe8IOWg7SKIY2lG_&ust=1678025427291000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjEg_65wv0CFQAAAAAdAAAAABAJ></a>
   </div>
   <img align="center" alt="sildev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   

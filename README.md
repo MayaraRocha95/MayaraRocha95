@@ -42,7 +42,6 @@
   <a href="https://git-scm.com/"><img align="center" alt="Logo-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
   <a href="https://www.figma.com/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
   <a href="https://p5js.org/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://p5js.org/assets/img/p5js.svg" style="filter: invert(100%);"></a>
-  <a href="https://sass-lang.com/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Logo-Figma" height="30" width="30" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png"></a>
   <img align="center" alt="sildev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: invert(100%);">
    <a href="https://nextjs.org/"><img align="center" alt="Logo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="filter: invert(0%);"></a>

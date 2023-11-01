@@ -1,7 +1,7 @@
 ###  Olá, eu sou a Mayara  Araujo Rocha
 - Desenvolvedora Full Stack Jr. na empresa [Osten Moove](https://www.ostenmoove.com.br// "Osten Moove") 
   ![j-c-hart-pixel-cat-003](https://user-images.githubusercontent.com/98711190/163698720-4c378ee9-f6ef-40f3-9012-a86b0491ad2c.gif)                                                                                
-- 📫 Contate-me no email: mayaraaraujorocha@hotmail.com
+- 📫 Contate-me no email: mayaraaraujorocha54@gmail.com
 - :mortar_board: Formada e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
 
 
@@ -61,8 +61,7 @@
  
 <div>
 <a href = "mailto:mayaraaraujorocha54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mayaraaraujorocha@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mayaraaraujorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/mayaraaraujorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/MayaraARochaaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
   

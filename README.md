@@ -1,6 +1,10 @@
-###  Olá, eu sou a Mayara  Araujo Rocha
+![Banner para Linkedin capa de perfil  para programador  (1)](https://github.com/MayaraRocha95/MayaraRocha95/assets/98711190/cf209993-b49d-4ffa-a0f5-b53e244910e7)
+
+
+
+
 - Desenvolvedora Full Stack Jr. na empresa [Osten Moove](https://www.ostenmoove.com.br// "Osten Moove") 
-  ![j-c-hart-pixel-cat-003](https://user-images.githubusercontent.com/98711190/163698720-4c378ee9-f6ef-40f3-9012-a86b0491ad2c.gif)                                                                                
+                                                                    
 - 📫 Contate-me no email: mayaraaraujorocha54@gmail.com
 - :mortar_board: Formada e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
 
@@ -64,7 +68,7 @@
  <a href="https://www.linkedin.com/in/mayaraaraujorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/MayaraARochaaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
-  
-  ![Snake animation](https://github.com/MayaraRocha95/MayaraRocha95/blob/output/github-contribution-grid-snake.svg)
+
+
   </div>
    

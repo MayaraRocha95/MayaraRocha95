@@ -3,7 +3,7 @@
 
 
 
-- Desenvolvedora Full Stack Jr. na empresa [Osten Moove](https://www.ostenmoove.com.br// "Osten Moove") 
+
                                                                     
 - 📫 Contate-me no email: mayaraaraujorocha54@gmail.com
 - :mortar_board: Formada e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 

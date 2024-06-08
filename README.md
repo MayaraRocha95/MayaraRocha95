@@ -6,7 +6,7 @@
 
                                                                     
 - 📫 Contate-me no email: mayaraaraujorocha54@gmail.com
-- :mortar_board: Formada e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
+- :mortar_board: Estudante de JavaScript foco em Back-End / Formada em Fron-End e Monitora Voluntária na [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
 
 
 

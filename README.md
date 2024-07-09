@@ -1,4 +1,4 @@
-## Hello
+## Hello,
 
 👩‍💻 I'm a Full Stack developer focused on web development. Currently, I'm exploring various technologies to create robust and efficient solutions.
 

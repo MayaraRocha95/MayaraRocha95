@@ -8,7 +8,7 @@
 
 - **Front-End**: JavaScript (React, Next.js), HTML5, CSS3, Styled Component, Sass, Figma
 - **Back-End**: Node.js, TypeScript, Express.js, Nest.js
-- **Database**: MySQL, PostGreSQL,MongoDB
+- **Database**: PostGreSQL,MongoDB
 
 
 
